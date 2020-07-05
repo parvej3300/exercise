@@ -22,8 +22,10 @@ i'm inserting this line and sending pull request
 This is a readme file where I will start my exercise.
 I have added a new line in the new feature branch.
 
-This is coming from fearure branch
-
+This is coming from feature branch
+This is for 1st rebase
+This is for 2nd rebase
+This is my 3rd rebase
 
 1st commit fork
 change in newbranch from local
