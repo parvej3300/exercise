@@ -1,3 +1,0 @@
-There are two types of algorithm is there.
-i) Greedy Method
-ii) Dynamic 
